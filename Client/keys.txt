@@ -1,0 +1,5 @@
+Client Secret
+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
+
+Client ID
+655188641396-uvajoco6ndajf2gfs8a2rvret0od69b6.apps.googleusercontent.com
